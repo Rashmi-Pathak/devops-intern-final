@@ -2,7 +2,7 @@
 
 
 Name: Rashmi Pathak
-Date: [Current Date, e.g., December 3, 2025]
+Date: [December 3, 2025]
 
 Project Description
 This repository contains the required assets for the DevOps Intern Final Assessment, demonstrating a complete workflow from scripting to containerization, CI/CD, deployment with Nomad, and basic monitoring with Loki.
